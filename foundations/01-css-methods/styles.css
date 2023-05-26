@@ -1,15 +1,23 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 div {
     
 }
 
 p {
-    color: darkgray
+    color: darkgray;
+    font-family: "Lato";
 }
 
 /* General styling */
 
 .button {
+    color: white;
     background-color: purple;
+    height: 3rem;
+    width: auto;
+    border-radius: .25rem;
 }
 
 .button.p {
