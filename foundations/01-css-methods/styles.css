@@ -1,0 +1,17 @@
+div {
+    
+}
+
+p {
+    color: darkgray
+}
+
+/* General styling */
+
+.button {
+    background-color: purple;
+}
+
+.button.p {
+    color: white;
+}
