@@ -1,25 +1,18 @@
-* {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-div {
-    
-}
-
+div, 
 p {
-    color: darkgray;
-    font-family: "Lato";
+    color: white;
+    font-size: 18px;
 }
 
-/* General styling */
-
-.button {
-    color: white;
-    background-color: purple;
-    height: 3rem;
-    width: auto;
-    border-radius: .25rem;
+div {
+    background-color: red;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
 }
 
-.button.p {
-    color: white;
+
+button {
+    background-color: orange;
+    
 }
