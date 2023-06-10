@@ -26,8 +26,10 @@ a {
   color: white;
   display: flex;
   font-weight: 700;
-  font-size: 48px;
-  padding-left: 32px;
+  font-size: 32px;
+  display: flex;
+  align-items: flex-start;
+  padding: 16px;
   flex: 0;
 }
 
